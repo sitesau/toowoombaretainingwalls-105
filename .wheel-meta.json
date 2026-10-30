@@ -1,0 +1,22 @@
+{
+  "wheel_id": 550,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-105",
+  "project": "retaining-wall-builders-toowoomba-what-to-expect-8d13c0f9f5266d",
+  "parent_t1_ref": "toowoombaretainingwalls-152",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba what to expect",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-what-to-expect-8d13c0f9f5266d/",
+  "tier": "T2",
+  "writeback_nonce": "34c1ee3a5cc48e9f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-toowoomba-pros-and-cons-eaf41a9d6f81fe5/",
+      "anchor": "Retaining Wall Builders Toowoomba Pros and Cons: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
